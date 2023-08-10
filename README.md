@@ -3,7 +3,9 @@ piscine-go go go-reloaded ascii-art ascii-art-web groupie-tracker lem-in forum
 ![IMG](https://raw.githubusercontent.com/Criziz21/01-edu-slives/main/ScreenShot%20Tool%20-20230810220814.png)
 
 ## WHAT TO DO
-Answers: https://github.com/October45/piscine-go
+Answers: 
+https://github.com/October45/piscine-go
+https://github.com/tshipenchko/piscine-go/tree/master/quests
 
 search for task conditions by these names in github.com/01-edu/public
 
