@@ -4,7 +4,11 @@ piscine-go go go-reloaded ascii-art ascii-art-web groupie-tracker lem-in forum
 
 ## WHAT TO DO
 
+./install-go-by-admin.sh only with admin mode
+
 https://github.com/01-edu/go-tests/tree/master
+
+in go-tests: go get student
 
 Answers: 
 https://github.com/October45/piscine-go
