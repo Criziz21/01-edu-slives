@@ -7,6 +7,13 @@ Answers: https://github.com/October45/piscine-go
 
 search for task conditions by these names in github.com/01-edu/public
 
+## group works
+
+quad
+
+sudoku
+
+
 ## Quest1
 
 "\?$*'ChouMi'*$?\"
