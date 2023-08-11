@@ -4,13 +4,15 @@ piscine-go go go-reloaded ascii-art ascii-art-web groupie-tracker lem-in forum
 
 ## WHAT TO DO
 
+You need first of all install git with bash and make it default for vscode
+
 ./install-go-by-admin.sh only with admin mode
 
 https://github.com/01-edu/go-tests/tree/master
 
 in go-tests: go get student
 
-Answers: 
+Possible solutions: 
 https://github.com/October45/piscine-go
 https://github.com/tshipenchko/piscine-go/tree/master/quests
 
